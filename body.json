@@ -1,0 +1,8 @@
+{
+  "id": "will be replaced if the flag is true",
+  "name": "Gopher owner",
+  "pet": {
+    "id": "even if the flag is true, this will not be replaced, the flag id only replace the first level",
+    "name": "Angry Gopher"
+  }
+}
